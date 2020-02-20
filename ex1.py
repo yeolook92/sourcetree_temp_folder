@@ -1,7 +1,7 @@
 data = input("Enter list of numbers: ")
 numbers = data.split()
 numbers = [int(i) for i in numbers]
-minval = 99999999
+minval = 999999998888888888
 for val in numbers:
     if (minval > val):
         minval = val
