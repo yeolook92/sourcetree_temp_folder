@@ -3,7 +3,7 @@ numbers = data.split()
 temp_c = 'ccc'
 numbers = [int(i) for i in numbers]
 temp_a = 'aaa'
-minval = 999999998888888888
+minval = 999
 for val in numbers:
     if (minval > val):
         minval = val
