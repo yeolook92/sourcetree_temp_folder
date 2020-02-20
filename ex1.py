@@ -47,5 +47,5 @@ scoredb = [ {'Name':'Lee', 'Score':30},
     {'Name':'Park', 'Score':50},
     {'Name':'Choi', 'Score':90} ]
 
-print("Min:", min(scoredb, key=lambda person: person['Score']))
-print("Max:", max(scoredb, key=lambda person: person['Score']))
+# print("Min:", min(scoredb, key=lambda person: person['Score']))
+# print("Max:", max(scoredb, key=lambda person: person['Score']))
