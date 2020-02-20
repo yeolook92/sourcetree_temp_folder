@@ -8,6 +8,7 @@ for val in numbers:
     if (minval > val):
         minval = val
 print("Minimum value:", minval)
+print("I'm B hehe")
 
 minval = numbers[0]
 for val in numbers:
