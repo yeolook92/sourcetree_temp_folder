@@ -9,6 +9,7 @@ for val in numbers:
         minval = val
 print("Minimum value:", minval)
 print("I'm A haha")
+print("start feature_c")
 
 minval = numbers[0]
 for val in numbers:
